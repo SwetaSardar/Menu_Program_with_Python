@@ -480,7 +480,7 @@ if choose == "local":
                     time.sleep(3)
                     
                 else:
-                        print("invalid input")
+                        print("Invalid Input")
                         input("please choose correct option : ")         
                         
         
